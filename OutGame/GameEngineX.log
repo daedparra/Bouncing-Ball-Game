@@ -1,0 +1,6 @@
+﻿  Ball.cpp
+c:\users\david parra\documents\enginexforstudent\ball.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Game.cpp
+  Main.cpp
+  Generating Code...
+  GameEngineX.vcxproj -> C:\Users\David Parra\Documents\EngineXForStudent\Build\GameEngineXd.exe
